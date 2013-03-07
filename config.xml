@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget xmlns="http://www.w3.org/ns/widgets"  version="1.0">
+  <name short="ReloadCSS">Reload CSS</name>
+  <access origin="*"/>
+  <icon src="img/icon-18.png"/>
+  <icon src="img/icon-64.png"/>
+  <author href="http://my.opera.com/SpShut/" email="sp.shut@gmail.com">SpShut</author>
+  <description>Force reloads CSS files</description>
+</widget>
